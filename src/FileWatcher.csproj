@@ -66,6 +66,7 @@
     <Compile Include="SimpleIntervalFileWatcher.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="FileWatcher.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

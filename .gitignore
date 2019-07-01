@@ -8,3 +8,5 @@
 /src/bin/Debug
 /src/obj/Debug
 /src/packages
+/.vs/FileWatcher/v15
+/src/FileWatcher.csproj.user

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FileWatcher</id>
+    <version>{AssemblyInfoVersion}</version>
+    <title>FileWatcher</title>
+    <authors>Aaron Todd</authors>
+    <owners>Aaron Todd</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides some common functionality for being notified for files in a directory.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags></tags>
+  </metadata>
+</package>
