@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs/FileWatcher/v15/Server/sqlite3
+/src/.vs/FileWatcher/v15
+/src/bin/Debug
+/src/obj/Debug
+/src/packages
